@@ -1,0 +1,9 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\randomstringreplacement\randomstringreplacement\bin\Debug\randomstringreplacement.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\randomstringreplacement\randomstringreplacement\bin\Debug\randomstringreplacement.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\randomstringreplacement\randomstringreplacement\bin\Debug\randomstringreplacement.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\randomstringreplacement\randomstringreplacement\obj\Debug\randomstringreplacement.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\randomstringreplacement\randomstringreplacement\obj\Debug\randomstringreplacement.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\randomstringreplacement\randomstringreplacement\obj\Debug\randomstringreplacement.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\gitfileproblem1reverse\randomstringreplacement\randomstringreplacement\bin\Debug\randomstringreplacement.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\gitfileproblem1reverse\randomstringreplacement\randomstringreplacement\obj\Debug\randomstringreplacement.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\gitfileproblem1reverse\randomstringreplacement\randomstringreplacement\obj\Debug\randomstringreplacement.pdb

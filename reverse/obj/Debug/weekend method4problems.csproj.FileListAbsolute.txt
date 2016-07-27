@@ -1,0 +1,9 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\weekend method4problems\weekend method4problems\bin\Debug\weekend method4problems.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\weekend method4problems\weekend method4problems\bin\Debug\weekend method4problems.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\weekend method4problems\weekend method4problems\bin\Debug\weekend method4problems.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\weekend method4problems\weekend method4problems\obj\Debug\weekend method4problems.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\weekend method4problems\weekend method4problems\obj\Debug\weekend method4problems.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\weekend method4problems\weekend method4problems\obj\Debug\weekend method4problems.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\weekend method4problems\reverse\bin\Debug\weekend method4problems.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\weekend method4problems\reverse\obj\Debug\weekend method4problems.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\weekend method4problems\reverse\obj\Debug\weekend method4problems.pdb
